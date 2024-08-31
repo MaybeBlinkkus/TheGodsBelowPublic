@@ -1,0 +1,9 @@
+The Godseeker has awoken.
+
+This mod is an expansion for Calamity Mod, and adds a new final boss: The Godseeker, Yharim
+Had to take a peek inside the Calamity source code for some things, so credit where credit is due
+
+Credits:
+Source code writer: blinkkus
+Concept contributors: bligityblarg, xXrebuXx, Wing
+Idea contributors: whirl, Saltonic, Catto, Loubre

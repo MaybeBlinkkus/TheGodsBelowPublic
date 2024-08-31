@@ -1,0 +1,8 @@
+UltimatumForgeItem: {
+	DisplayName: Ultimatum Forge
+	Tooltip:
+		'''
+		The ultimate crafting station, made of the finest and most
+		valued materials known to the universe.
+		'''
+}

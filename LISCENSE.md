@@ -1,0 +1,2 @@
+The Gods Below Mod is an expansion for the already existing Calamity Mod. 
+Since this mod depends on Calamity, I (blinkkus) had to take a look inside the source code for it. Have to give it credit and also learned a few things, thank you Calamity Dev Team.
